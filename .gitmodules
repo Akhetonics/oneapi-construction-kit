@@ -1,0 +1,2 @@
+[submodule "external/construction-kit"]
+	url = git@github.com:Akhetonics/oneapi-construction-kit.git
